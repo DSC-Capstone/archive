@@ -1,39 +1,39 @@
 - text: Home
   url: /
 - text: Student Pages
-  url: /student/
+  url: student/
   subitems:
     - text: Syllabus (Q1)
-      url: /student/quarter-1-syllabus/
+      url: student/quarter-1-syllabus/
     - text: Syllabus (Q2)
-      url: /student/quarter-2-syllabus/
+      url: student/quarter-2-syllabus/
     - text: Schedule (Q1)
-      url: /student/quarter-1-schedule/
+      url: student/quarter-1-schedule/
     - text: Schedule (Q2)
-      url: /student/quarter-2-schedule/
+      url: student/quarter-2-schedule/
     - text: Assignments (Q1)
-      url: /student/quarter-1-assignment-descriptions/
+      url: student/quarter-1-assignment-descriptions/
     - text: Assignments (Q2)
-      url: /student/quarter-2-assignment-descriptions/
+      url: student/quarter-2-assignment-descriptions/
     - text: Staff & Domains
-      url: /student/domains/
+      url: student/domains/
 - text: Assignments
-  url: /assignments/
+  url: assignments/
   subitems:
     - text: Methodology (Q1)
-      url: /assignments/quarter-1-methodology/
+      url: assignments/quarter-1-methodology/
     - text: Participation (Q1)
-      url: /assignments/quarter-1-participation/
+      url: assignments/quarter-1-participation/
     - text: Project Proposal (Q1)
-      url: /assignments/quarter-1-project-proposal/
+      url: assignments/quarter-1-project-proposal/
     - text: Q1 Project (Q1)
-      url: /assignments/quarter-1-replication/
+      url: assignments/quarter-1-replication/
     - text: Capstone Project (Q2)
-      url: /assignments/quarter-2-project/
+      url: assignments/quarter-2-project/
     - text: Project Checkpoints (Q2)
-      url: /assignments/quarter-2-checkpoints/
+      url: assignments/quarter-2-checkpoints/
     - text: Participation (Q2)
-      url: /assignments/quarter-2-participation/
+      url: assignments/quarter-2-participation/
 - text: Instructor Pages
   url: /instructor/
   subitems:
@@ -44,18 +44,18 @@
     - text: Week-by-Week Guide
       url: /instructor/week-by-week/
 - text: Resources
-  url: /resources/
+  url: resources/
   subitems:
     - text: Computing Resources
-      url: /resources/computing/
+      url: resources/computing/
     - text: Software Development for Data Science
-      url: /resources/swdev/
+      url: resources/swdev/
     - text: Effective Communication
-      url: /resources/communication/
+      url: resources/communication/
     - text: Methodology Lecture Notes
-      url: /resources/lecture_notes/
+      url: resources/lecture_notes/
 - text: Archive
-  url: /projects/
+  url: projects/
   subitems:
     - text: 2019 - 2020
-      url: /projects-2019-2020/
+      url: projects-2019-2020/
