@@ -1,8 +1,7 @@
 ---
 layout: page
 title: "UCSD Data Science Capstone"
-doodle: "/assets/images/doodle.png"
-permalink: /
+doodle: "assets/images/doodle.png"
 ---
 
 This is the site for the 2021-22 iteration of the capstone. For the most recent course website, look [here](https://dsc-capstone.github.io).
@@ -11,7 +10,7 @@ This is the site for the 2021-22 iteration of the capstone. For the most recent 
 
 |Quarter 1|Quarter 2|
 |---|---|
-|[Prospective Student FAQ](/student/faq)||
+|[Prospective Student FAQ](student/faq)||
 |[Syllabus (Q1)](/student/quarter-1-syllabus)|[Syllabus (Q2)](/student/quarter-2-syllabus)|
 |[Schedule of Topics (Q1)](/student/quarter-1-schedule)|[Schedule of Topics (Q2)](/student/quarter-2-schedule)|
 |[Description of Assignments (Q1)](/student/quarter-1-assignment-descriptions)|[Description of Assignments (Q2)](/student/quarter-2-assignment-descriptions)|
